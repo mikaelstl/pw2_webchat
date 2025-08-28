@@ -82,7 +82,7 @@ Será necessário dois computadores para testar a aplicação (Conectados na mes
 
 2. Descubra o ip da máquina que executará o back-end:
 ```bash
-ip -a
+ip a
 ```
 ou
 ```bash
